@@ -1,0 +1,19 @@
+h1 {
+    color: pink;
+    font-family: 'Roboto', sans-serif;
+    text-align: center;
+    border: 5px solid palevioletred;
+    margin: 1px;
+    background-color: darksalmon;
+    font-size: 50px;
+}
+h2 {
+    color: deeppink;
+    font-family:'Roboto', sans-serif;
+    text-align: center ;
+    margin: 1px;
+    background-color: plum;
+    font-size: 40px;
+    font-weight: bolder;
+    
+}
