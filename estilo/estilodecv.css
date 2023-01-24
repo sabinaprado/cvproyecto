@@ -1,11 +1,16 @@
+
+.cuerpo {
+    background-color: rgb(241, 190, 229);
+
+}
+
+
 h1 {
     color: pink;
     font-family: 'Roboto', sans-serif;
     text-align: center;
-    border: 5px solid palevioletred;
     margin: 1px;
-    background-color: darksalmon;
-    font-size: 50px;
+    font-size: 100px;
 }
 h2 {
     color: deeppink;
@@ -17,3 +22,67 @@ h2 {
     font-weight: bolder;
     
 }
+
+ul {
+ 
+    font-size: 23px;
+
+}
+.readMore_btn {
+    background-color: pink;
+    border: none;
+    border-radius: 40px;
+    color: white;
+    padding: 10px 10px;
+    font-size: 30px;
+    box-shadow: 0px 0px 10px 0px #4caf50;
+    cursor: pointer;
+  }
+  .hideText {
+    font-size: 20px;
+    font-style: italic;
+    color: palegoldenrod;
+  }
+
+nav {
+    color: rgb(226, 140, 186);
+    font-family:'Roboto', sans-serif;
+    text-align: center ;
+    margin: 1px;
+    background-color: rgb(139, 96, 139);
+    font-size: 50px;
+    font-weight: bolder;
+    border-radius: 5px;
+}
+
+.container {
+    background-color: rgb(192, 189, 194);
+    border-radius: 10px;
+    margin-right: 0%;
+    margin-left: 0%;
+    width: 100%;
+}
+
+
+.social {
+    text-align: center;
+    background-color: rgb(153, 26, 89);
+    border-color: rgb(247, 76, 224);
+    font-size: 40px;
+    color: blueviolet;
+    border-radius: 45px;
+    padding: 10px;
+    justify-content: space-around;
+    display: flex;
+
+}
+
+ 
+.hideText {
+    display: none;
+}
+
+.show {
+    display: block;
+}
+
